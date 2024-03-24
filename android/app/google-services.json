@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "50109702108",
+    "firebase_url": "https://exchange-book-b33bc-default-rtdb.firebaseio.com",
+    "project_id": "exchange-book-b33bc",
+    "storage_bucket": "exchange-book-b33bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50109702108:android:ae754d1adb2d52e88cf919",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHX6rUkTlcB0cnWV2mrno-rd7geMbEvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
